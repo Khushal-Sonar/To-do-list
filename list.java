@@ -1,10 +1,3 @@
-Gemini said
-Here is a clean, console-based To-Do List application in Java. It uses an object-oriented approach by creating a Task class and manages the list using an ArrayList.
-
-☕ The Java Code
-Save this code in a file named TodoListApp.java.
-
-Java
 import java.util.ArrayList;
 import java.util.Scanner;
 
